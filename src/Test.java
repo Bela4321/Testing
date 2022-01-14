@@ -1,3 +1,11 @@
+import java.util.HashMap;
+import java.util.TreeMap;
+
 public class Test {
-    int i = 1;
+
+    public static void main(String[] args) {
+        HashMap<Integer, String> Map;
+        TreeMap<Integer, String> Tree;
+    }
 }
+
